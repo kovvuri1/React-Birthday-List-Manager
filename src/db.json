@@ -1,0 +1,35 @@
+[{
+        "id":"1",
+        "name":"aparna",
+        "bdate":"23",
+        "imgsrc":"https://cdn.pixabay.com/photo/2016/11/29/20/22/girl-1871104_640.jpg"
+
+    },
+    {
+        "id":"2",
+        "name":"lakshmi",
+        "bdate":"34",
+        "imgsrc":"https://img.freepik.com/free-photo/3d-render-cute-girl-with-blue-hair-pink-dress_1142-57526.jpg?ga=GA1.2.1700452634.1719679908&semt=ais_hybrid"
+
+    },
+    {
+        "id":"3",
+        "name":"sandhya",
+        "bdate":"14",
+        "imgsrc":"https://img.freepik.com/premium-photo/cute-businesswoman-working-with-laptop-having-great-idea-3d-illustration_175994-21585.jpg?ga=GA1.1.1700452634.1719679908&semt=ais_hybrid"
+
+    },
+    {
+        "id":"4",
+        "name":"shiva",
+        "bdate":"34",
+        "imgsrc":"https://img.freepik.com/free-photo/3d-rendering-cute-cartoon-character-cafe-with-bokeh-background_1142-41143.jpg?ga=GA1.1.1700452634.1719679908&semt=ais_hybrid"
+
+    },
+    {
+        "id":"5",
+        "name":"hasini",
+        "bdate":"35",
+        "imgsrc":"https://cdn.pixabay.com/photo/2016/11/29/13/14/attractive-1869761_640.jpg"
+
+    }]
